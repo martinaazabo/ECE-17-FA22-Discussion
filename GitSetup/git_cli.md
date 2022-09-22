@@ -1,5 +1,5 @@
 # Git Setup
-This is the step-by-step instructions of how to set Git.
+This is the step-by-step instructions of how to set up Git for the command line.
 
 This setup will be done for the Windows OS, but the steps should remain relatively the same for other operating systems.
 
