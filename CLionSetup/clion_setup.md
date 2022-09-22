@@ -70,3 +70,12 @@ And Click OK
 ![](../Assets/clion_success.png)
 Clicking the green play button on the top right will run the program and the program output will show below as "Hello World"
 ![](../Assets/clion_running.png)
+## Opening your HW locally
+1. Follow the instructions in the GitSetup folder to create a local repository   
+2. Open Clion and choose Open  
+![](../Assets/clion_open.png)
+3. Open the overarching folder for the HW (usually will look like ece17-fa22-paX-username)   
+Make sure that the CMakeLists.txt is in the first layer after you open that folder
+4. CLion will then configure the CMakeLists.txt and now you can make changes
+
+**Note**: It is a very good idea to add the .gitignore file from the discussion repository to your HW repo. This will eliminate any clutter in seeing the file differences.
