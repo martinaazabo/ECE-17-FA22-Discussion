@@ -35,7 +35,7 @@ Using commands on the terminal makes me feel really cool and smart, but it is no
 ![](../Assets/git_cred.png)
 16. Choose Enable file system caching  
 ![](../Assets/git_cache.png)
-17. Select none
+17. Select none  
 ![](../Assets/git_experiment.png)
-18. Install and all should be finished. You can open up PowerShell, cmd, MinTTY, or any terminal and type in **git** and you should see a similar result if all was installed successfully.
+18. Install and all should be finished. You can open up PowerShell, cmd, MinTTY, or any terminal and type in **git** and you should see a similar result if all was installed successfully.  
 ![](../Assets/git_result.png)
