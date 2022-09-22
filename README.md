@@ -3,6 +3,6 @@ This repository will hold all of the files that will be used for discussion as w
 
 ## Some Notable Resources
 - [.gitignore](.gitignore)
-- [Clion Setup](./ClionSetup/clion_setup.md)
+- [Clion Setup](./CLionSetup/clion_setup.md)
 - [Git Setup](./GitSetup/git_cli.md)
 - [Github Desktop Setup](./GitSetup/github_desktop_setup.md)
