@@ -39,3 +39,19 @@ Using commands on the terminal makes me feel really cool and smart, but it is no
 ![](../Assets/git_experiment.png)
 18. Install and all should be finished. You can open up PowerShell, cmd, MinTTY, or any terminal and type in **git** and you should see a similar result if all was installed successfully.  
 ![](../Assets/git_result.png)
+## Usage
+Let's use Github desktop to add a repository to your local computer and add a change.  
+1. Go to the repository on github.com  
+2. Click the green Code button and copy the HTTPS link (You can use the two square button)
+![](../Assets/github_desktop_website.png)
+3. Navigate on the command line to the desired location and use the command __git clone {}__ and replace the {} with the URL you copied  
+![](../Assets/git_clone.png)
+4. After making a change you can use the command __git status__ to see which files have been added/deleted or changed  
+![](../Assets/git_status.png)
+5. You can see the differences you have made with the command __git diff__ (I won't show the difference since it has PA0 answers)  
+6. In order to make changes, first we have to add them to the commit using the command __git add {}__ where {} is replaced by the file/folder names. If we want to add all the files we can use the command __git add --all__. Running __git status__ again we can see that the files we added show up green.
+![](../Assets/git_add.png)
+7. Next we must commit them using the command __git commit -m "{}"__ where {} is replaced with any message  
+![](../Assets/git_commit.png)
+8. Now, we're ready to push using the command __git push__. This will put our local changes on the github repository and for our HW, the autograder will run  
+![](../Assets/git_push.png)
